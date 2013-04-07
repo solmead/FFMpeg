@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FFMpeg_Test", "FFMpeg_Test.vbproj", "{403390C0-7D8A-4B4C-B5CB-40AD6FC4DD8D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FFMpeg", "..\FFMpeg\FFMpeg.vbproj", "{21DD2B09-BAA5-4935-8245-1B086A07E045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403390C0-7D8A-4B4C-B5CB-40AD6FC4DD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403390C0-7D8A-4B4C-B5CB-40AD6FC4DD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403390C0-7D8A-4B4C-B5CB-40AD6FC4DD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403390C0-7D8A-4B4C-B5CB-40AD6FC4DD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DD2B09-BAA5-4935-8245-1B086A07E045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DD2B09-BAA5-4935-8245-1B086A07E045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DD2B09-BAA5-4935-8245-1B086A07E045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DD2B09-BAA5-4935-8245-1B086A07E045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
